@@ -1,0 +1,3132 @@
+{
+  "timestamp": "2025-06-28T17:16:26.984Z",
+  "total_extracted": 625,
+  "network": "mainnet",
+  "data": [
+    {
+      "accountAddress": "0xf12cea359512b8ccd5e7b33b3d308a174837250c",
+      "balance": "49999998989.99345",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xcf27f8aea1b9b5745c0a8fac8a516ed8533ac736",
+      "balance": "26270366987.980343",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xeb1b8b80bfaf69f8fe890b6d5e208a8954f324b9",
+      "balance": "4499999999.991516",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xd6b0479a159194257f32f6882a6c33ec73d9f48d",
+      "balance": "3000000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x49064abe7e86b2da015bc171417900ac9855b164",
+      "balance": "758768883.669124",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xac68a8b15906915b1f84dae4f7b9ee1b010c65a3",
+      "balance": "551333331.922468",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xfcea6991f72726a73522e8a4fec2d142636650c3",
+      "balance": "526085870.89626",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x670abe8ca0ead3361301daba65a8bc31b6d07549",
+      "balance": "217083127",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xf611afc711cacac61cc6eabf2fd58b2f16445d3e",
+      "balance": "200000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x1cf09c17dc3d23623810225dbed2c700eca8d05b",
+      "balance": "200000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xae4490445af4974c00b2ca5f125ed2445606d323",
+      "balance": "190000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xdd2699515482f026652bb825740089482d133acf",
+      "balance": "189000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x947110d13157f60e3438326f2fdfb8a600427380",
+      "balance": "175000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x87e3eaeceda3a2e0cb1a9c1416032f96992a4855",
+      "balance": "160000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x3d3bd45fb422a81f4cdf27ca7936cfe8904993db",
+      "balance": "150000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xe1a8fe3650266a2f0224c4b954d2a02fdc9976d0",
+      "balance": "150000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x5cb972bb655d9657155237272380bdb00d2698d7",
+      "balance": "150000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x0204a00c6b7566d299dbc3e05d9ba90dc07bc306",
+      "balance": "150000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xa4a3086a9e3b779852ffed95ea4ab9cd23d5515c",
+      "balance": "150000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x42b3d48a3b792c24bc00eadd6985a446f3d456c1",
+      "balance": "150000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x42b3d48a3b792c24bc00eadd6985a446f3d456c1",
+      "balance": "150000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xb9ab66a6dd77519a2177c201d21b97ad149cd236",
+      "balance": "150000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xaf205ee49114ba5128f43d20cc27ec2801b2ac8d",
+      "balance": "150000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xb134c7ef7424c17dc9ab64b4b40dc9817ef0bcaa",
+      "balance": "150000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x149ab4a2f65887baeef65f9c644a293079566ff0",
+      "balance": "150000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xb5e454aafb2225297ebe19117a0fc84785c18184",
+      "balance": "150000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x932f61fa393cffd68b7f825582fcdc7222e86172",
+      "balance": "150000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xd6a42715fbf5c42ff6ccaffc08ac63260d59d205",
+      "balance": "150000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x8ce6f9f0b2abd3c3894386dbf8ead7425caa55e0",
+      "balance": "150000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xc194dbf1ffbeb4009395e109348484fe3684312a",
+      "balance": "150000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xf5930dcc583a95cdfb3c70e23df0f0f0eaa2eacc",
+      "balance": "150000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x959c47447e992260d2296caae2641c2aa09a2c6e",
+      "balance": "150000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xf6cc182e3489a4adfdc1a1f001aa5c323c44785f",
+      "balance": "150000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xcf9f8f88939ac74ab579a2332d890ccca9d6fe49",
+      "balance": "150000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xf9a1f70bb130de497f7c51432df7e22ca4189269",
+      "balance": "150000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x482673cd6b9c2204894caf75e21bb0decb61f0df",
+      "balance": "150000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xe945c4d2f53415f137506bf71a638b718569c840",
+      "balance": "140000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x0e091948106178fa60ad55cd53ee83238aee31f4",
+      "balance": "135000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x7eff89a37af561eef8acce0d7e96f6c619c7dcd4",
+      "balance": "130249876",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x2ada3a6d63e6b75116b9a3945a80922b094a52be",
+      "balance": "125000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xf17ee6b92a7d0117b69233770cd9c07a181b607f",
+      "balance": "125000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xd1dc082be19da703fdb6310f6d3b421fdaccbf65",
+      "balance": "125000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xce1e755b5d155e918ed255d7103b88cb3412b117",
+      "balance": "120000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xf8d6b4c06630a4be274c6d2dadee7df1200e54b3",
+      "balance": "120000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xb6a4bdedff2c20a9556ef69d7c2807991378faf8",
+      "balance": "120000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x32648d4fbf4c476668d1918268e760a72a3ce581",
+      "balance": "120000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x347a063ec1699e4461754341b6cd0a1a551476af",
+      "balance": "120000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x0b2b440c1f8fcdca5a29872ce02763c1f2c7c3af",
+      "balance": "120000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x6982284af6dffff9bade3f40713f55066d41d594",
+      "balance": "110000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x6338e339a03641acf0c35187cbb87219ceeba35c",
+      "balance": "110000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xa4364a4019e17c98f81c6b1c58d16262da7070fa",
+      "balance": "110000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xea8628dc51a4826d144b17be678fd85ac53f17ea",
+      "balance": "103418323",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x9ad2639f8813d7a03914006e93ac994b4fc23431",
+      "balance": "100000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x450c6c3fe586b8290e2dd2dda6e410fa45b43f09",
+      "balance": "100000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x522ebe9c0500dd8b00e6437eee3d517653005b39",
+      "balance": "100000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x6a3896d17c485804408e7ab37af641846fe6514a",
+      "balance": "100000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xcea6ebc15ba3066163b816d1d40650745bbd6a10",
+      "balance": "100000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x5c106cfe7d1000e19d15106b9e1c63ba1fdffb00",
+      "balance": "100000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x7ca5623bdb2a897883f6350104fa8f28c2659584",
+      "balance": "90000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x22893446fe69d4ecd261a1712646d9cfbf0bcf88",
+      "balance": "90000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x9de3d5d7645e8d1e2bb8a2f9afce562ae0fb9285",
+      "balance": "86833251",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xe5b50bfb2887f49444627b9829569157ff890518",
+      "balance": "82600000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x9b2697d874086b24b2c7f278ac0b67105c8ad76c",
+      "balance": "80000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x5e97c43a2318509fcd253b7a0bedb39fd8d4e649",
+      "balance": "80000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x42513a4aec7d76ee97562fe6f5d5b1c4252dc97c",
+      "balance": "80000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x5ba2e8ec229e9fccd278301b2527cbf5c846bd13",
+      "balance": "80000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x6305d61a8451cc54c8a2253de1200d1783795216",
+      "balance": "75000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x0d6f553227e049d99c1cbdf513e0e43708408840",
+      "balance": "70000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x755de0b1e434c3aa36d41500eedc643668679f31",
+      "balance": "70000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xd1d101c23a37cc3976e06927dd0d171a9d1b8d84",
+      "balance": "70000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xccf8d847da8c17d881b9842991d944b99bec499b",
+      "balance": "70000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x124900b8e4fd27cc4bd676a3c471e8a236a5957a",
+      "balance": "70000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xf2f659ea3f09025d036c331953c26aaa922e447c",
+      "balance": "66666667",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x7abcabcf9324171cf3634a865d2db4c2ccb3a69a",
+      "balance": "66666667",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x658e56135d0ff8d78cdf70048fd85c063823ddac",
+      "balance": "66666667",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x5dbf21ef957880c4a732f10d1cc0efbc206de85f",
+      "balance": "66666562",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xfc9d98c68334bb4b82416b89668b71e7e4459b63",
+      "balance": "65124938",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xfc62a1784969e74c5395c72818bb8e61d80169af",
+      "balance": "65124938",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x8372ce14c702576ea504be0ad4c7eb95e633a38f",
+      "balance": "65000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x497bb37301c3efceef92709a23279ab6c71b5156",
+      "balance": "60660448",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xf99d1bb55ffcba6e056edceb70d07ff2c1de2792",
+      "balance": "60000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xbb222563d7a1334eb02c1a184a37c1a8a644529e",
+      "balance": "60000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x8c9be4e77621abb56746db6c7b897f7f11802fde",
+      "balance": "60000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x1ccd64515e14d71d978920202657d13a644b3c99",
+      "balance": "60000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x4a344fe64c908687a75bb0b90210f9fd579d13ce",
+      "balance": "60000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x842959db864e93e057169913c378fd281bcc5e56",
+      "balance": "60000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x2a36bb525c06f81fa2abf1d131abe1ebae25662b",
+      "balance": "60000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x15698d576d71325aea156e5fbbfe9b5e1e3b6497",
+      "balance": "60000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x8317ff16ab0246855c42b9dd88bd6408629e6f50",
+      "balance": "60000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x4faa52e124c622c27fc0ecfe5f150caada2cbed4",
+      "balance": "60000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x2a24c42a1eb5410de94be1f6895527ca15fb9901",
+      "balance": "60000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x6c260299a1c9aac405c7c65fd1f1a22d69ccb2be",
+      "balance": "57888814",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x7d94334127628aa7ba1af7ea8bb89c62d75122ac",
+      "balance": "54666667",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x0fcd01c968d38fa910a97a35b5334398f26faf52",
+      "balance": "54444444",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xfccf60832d7df16692642fb9a2e7b6ec6cc6a47d",
+      "balance": "52099950",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xf1cc56ad54e11d996c73f45d14a17295aa2eba7e",
+      "balance": "50000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x23651ded5d1b2a1d5a47fc01dd4c51c2ade6b856",
+      "balance": "50000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x88f43507c6574eaa3ce26c2eaf665487d3aea026",
+      "balance": "50000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x1443c303aceba7ef39c10e85376dfe76a529d437",
+      "balance": "50000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xe55fafbc4a851fed5c74e08379a8384527f4d51b",
+      "balance": "50000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xae93983a236ba7e0c23549262f195f058d9952d1",
+      "balance": "50000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x5182ceefbefb88f88d22fa57f883e4d1e3cde642",
+      "balance": "50000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xda2827348ad9a052ec2b4482a5a90e9bd38556fa",
+      "balance": "50000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x8006a336b2611b186771ee14193c6895c89a4fc9",
+      "balance": "50000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x70c8a36b9ef2e6956710dfbd0dd13a17a4d3c963",
+      "balance": "50000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x00cd68e3592060d8ac33517c075de100f3363d2f",
+      "balance": "50000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xe4bbe8bf5752b1f853ea5bea78271390db9d2b57",
+      "balance": "50000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x3c7bbb42ddccb6e85c86dc7bb8c0978a4a0fb649",
+      "balance": "50000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xf2f74d5e0fbebbc9e20839b343a7d857d9a7b5c3",
+      "balance": "50000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xfb66361f64a98be41d71e5532f877a15b436cffa",
+      "balance": "50000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x757c120076e727a831b567c448bc4be830adde80",
+      "balance": "48300000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xa039048b87fa4ffc96144c835849d9b5619a81cf",
+      "balance": "46666667",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x0ad30185c970e652fd5dcfa95dffc499879035d6",
+      "balance": "46666667",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x2e62f258435c01deea037378dd0eae3f9137a302",
+      "balance": "45000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x0af36644c452d417db34652099e23b5a6cf65b27",
+      "balance": "45000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xf44733e2931baec4839bcaad036857e026e84c52",
+      "balance": "45000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x1b11cd0ca348bc9729193f17036d5fd680fd66bc",
+      "balance": "43416625",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x0e0e66a640c3cf9acd0f14c1dd416aaddf26c93e",
+      "balance": "43416625",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xfc5d4269868fd2b1af3bc6a5e975fcf2ae7564b9",
+      "balance": "43416625",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xac18284e586c4fe13fc6fbbc7c041846ade1bcb0",
+      "balance": "43416625",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x6169da48e1f404924fb35da75bd1f933f352189b",
+      "balance": "43416625",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x33f938d33cf4991041aea8be790a6abd636189b0",
+      "balance": "43416625",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x11024fad40eadf6f506515734d7d78180626e18c",
+      "balance": "43416625",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xdb8a959a745137206d59404b640b0944c5905e26",
+      "balance": "43412284",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xfd743be39e46ea445c7646c65da3076e0693487d",
+      "balance": "40000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x5b35c7bac23e35708cff52d58d682d25dc474053",
+      "balance": "40000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x3fcd5b593f8433378f4d8574f79637e625b1f9cc",
+      "balance": "40000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x6628d4837a556dea19e2cea2c264ff99326db320",
+      "balance": "40000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xd88da226557da3d1761cbd9f20f2134a347ca8c8",
+      "balance": "40000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xcac776041b7f0db13db55c128aa34b22f2ae9b7d",
+      "balance": "40000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xf830ddac57294dff58507cda86361ab708b18669",
+      "balance": "40000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x1647f9297ddf7e84483969b227edba81c25bed4b",
+      "balance": "40000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x6d13bf2cd59e501b95fc3dc5b75a660cd49785e0",
+      "balance": "40000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xd2c6504918982407226e0fa91fc7c99ee0ce05ad",
+      "balance": "36666667",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xa2c1d7792fe45a3c0784529510c943c25aa07919",
+      "balance": "34733300",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x4fa7d1b6c68298785723319f2febe7e9af018efb",
+      "balance": "34729827",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xb97e6b1f6fc4a037d406da484eb374afb2960416",
+      "balance": "33333333",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x4b5e1e94221172e6f3744d290c906b57c2c11cd9",
+      "balance": "33333333",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xde0fd89680f0b9dab4324290815a80241084f6e0",
+      "balance": "33333333",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x85aae0bad4a08c58a85ae2e217c2874ad58ea68a",
+      "balance": "33328890",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x151424b827f76d33fad8d713d6fdc51cc36d65cb",
+      "balance": "30391638",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x5480980fb73f06cedcff20a60f058e029166ab48",
+      "balance": "30391638",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xb72691c49e464f799f0c97a0c84ca3935b912375",
+      "balance": "30391638",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x18e44c5efa7ec4c465243aefb1359116c17e451f",
+      "balance": "30391638",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x49f685e1219ff5d02f5f1472e8a4450edcd108d0",
+      "balance": "30388164",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x34cc9d34235d6959ae38c09d159c078187796439",
+      "balance": "30000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x7f057a7747d3e3522fec7b5f9d422c9920c432a7",
+      "balance": "30000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x805944929ee290cf824b79fc29f6e783a0d25cc8",
+      "balance": "30000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x34d9a4c31289d1c724fc4de4cb1c70f4f872e8ea",
+      "balance": "30000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xb3844f8fc31aec4e385f2180aa3c921a210d63c5",
+      "balance": "30000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x756d62e2aca431a669e4afe275eadcd731c9b591",
+      "balance": "30000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xd806f02f2a5e36e1255a0aaa3d3e0501b1147b55",
+      "balance": "30000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x403a5ac7e21b69ab2d42498ac9018cd69c4243a2",
+      "balance": "30000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x089a7af5d18fdbc94009fc2b20ea7a733f0b108a",
+      "balance": "30000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xd5606c93cd69465562b986dd27399a04d658dd51",
+      "balance": "30000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x8c55c526731c535e3920913c54fab204f9591385",
+      "balance": "26666667",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xc37e726520d874e3b539632fc636de94cbbad683",
+      "balance": "26666667",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x1afd768c615f2cd146848c9cfa2bd389b226c57c",
+      "balance": "26666667",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xfd9b72bf3092f11e59b61c23de69f3a9417b4bf9",
+      "balance": "26049975",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x46d8bbad71244a1a80ce41598ab6727aad1a09fb",
+      "balance": "26049975",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x9c3bd6dfcbb12820be6a13df3380e4bf2772f0b6",
+      "balance": "26047370",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x80e437e82210479f635385e22f808cf092507781",
+      "balance": "25854583",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xde2af95d598071b497f1485dc31e7387a21fa82c",
+      "balance": "25000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xaa4753d35d9b29512254c7d85134a417ff1c134d",
+      "balance": "21708313",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x1c42298ae5b71ff1d4b487960842e62e0edb832e",
+      "balance": "21708313",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x9ddfbe5abf30131bdf490b4cfa722edb7f3d7dd5",
+      "balance": "21708313",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x6fc1ef047efbbcaa7e7998365266e0b44d5bd97d",
+      "balance": "21708313",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xfa86c37844e87185ba1238141da96da2221175fc",
+      "balance": "21708313",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x5df38fcf34fc7eed9d849345c1c08ca446aa6daa",
+      "balance": "21708313",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x5e3d1644b7efcd227c0063c878c0e9adba26ba52",
+      "balance": "21708313",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xc5a2fac61b34fe091100319358160dafad9ecf29",
+      "balance": "21708313",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x38c1222892944a4a9ed6371324a04c821eb8ded2",
+      "balance": "21708313",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x2d63b5b8f027572acc4e6b585a278c1467aa88de",
+      "balance": "21708313",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x556b53cdb6cd76e07483c24c460869926624cf6d",
+      "balance": "21708305",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xbbc5739d1aa194d1269c289a3b3459f75160ca34",
+      "balance": "21708305",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x54aee4f09d31f0d955eb3e453019a11325df2eb2",
+      "balance": "21705893",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x7820d0ee033accea3e6e8b2e8c418de30be055cb",
+      "balance": "21545483",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xb2e4f0730e79d796ca735cb9fa1cd97680a672ba",
+      "balance": "20000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xa3e3b4aa008c012e905eb81962ad5bfc14d7db08",
+      "balance": "20000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x59bc0ac6d0b6d939c85b132d9b59814dae1009ba",
+      "balance": "20000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xa0c01122f9f08ec6ff11a61885406af3f9523df8",
+      "balance": "20000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x34dfcf3eef03a526d021c03ad2373a9fc15e65fe",
+      "balance": "20000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x85daf579b1a29a1ea3f23a52349089e872f702b0",
+      "balance": "20000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x554796fdbedf895481bf677b203cfa963dc7a66d",
+      "balance": "20000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x4070bc45b075b37c6d2db008053a6e487700d976",
+      "balance": "18090254",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xea69ae96a8f940e549957141594867cce5b0774b",
+      "balance": "17366650",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x9767a6d18100528cd78bae85ba4c65bc894ac3f6",
+      "balance": "17366650",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x59a9c7dcef44ba63f29ed3696e954ab60b00c32a",
+      "balance": "17366650",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xad6a9ec3dffbf8bba3aac976cfb2841450dec1f2",
+      "balance": "17236383",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xe2b1c8bba9026131b16c64df2007f4f0630a6aba",
+      "balance": "16666667",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x485de2192e2ea8e4cb9e70c1cc52e09ebfdd2870",
+      "balance": "16666667",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x7b7ffb3f6784474515f9d1ddc124af52e03951cb",
+      "balance": "16666667",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xc4a872e6802ab4fa4d2f16a5971e54927e9ee7f9",
+      "balance": "15000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xba7a7f1d755f2505cece1ecd57fa082e8d0ed8a7",
+      "balance": "14472204",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xa55ace73749ce19223e079a047d5eedca007f3f6",
+      "balance": "14472204",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x30e8c704a81f74e4b4284d0b5732a3f677b42ce1",
+      "balance": "14472204",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xb904f668825791ce20623b439d8947d08b1838e9",
+      "balance": "14472204",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x97e7321a3ca0548fa2a92106719cc78a1de5a7c7",
+      "balance": "14472204",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xcaaa0047a1219862aa45eae9a3184ce0d2735a48",
+      "balance": "14472204",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x431e2dbb12e53ba183db15da1b7991d639e49ec5",
+      "balance": "14472204",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xfcb9aa27b6d05148008d19c01377051230622c95",
+      "balance": "14472204",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xfacdc7ce75961850ccb6b87ec637209ef0c7d2e5",
+      "balance": "14472204",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xa70c29262365d5ac8ddf7563289ce1e45afd5bf2",
+      "balance": "14472204",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xeb348fee93cf1c581cb3032dd9ed73d11d6b9a69",
+      "balance": "14472204",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x197d2ce5a1a5153e6b897326ee9e3b67a5550598",
+      "balance": "14472204",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x08851da69fbec4e0d26faf85eb9cc90a30856cd6",
+      "balance": "14472204",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x182447e0a868145c3d29001cabc107a1e8d726b6",
+      "balance": "14472204",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xaeaaf32630e52fd0e9c6c06fe94251eb5a8be954",
+      "balance": "14472204",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x21e59a90a7faf03167adaa9c69d51295e1b960c0",
+      "balance": "14472204",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x7a4ce05727f773cb99f8ad7f8bb9a7b5039d13f9",
+      "balance": "14472204",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x00911b947540b906a624c5a026741d86c1c7d44e",
+      "balance": "14471914",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x5c13fb353788cea3d4dd5e7b87de0787b327f483",
+      "balance": "14471914",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x63221e2a47c2c2295a3ad4f482c77cdf8152e01a",
+      "balance": "14471644",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xc726e0b08fad0358bab0a5ee5f8dae23cb75c449",
+      "balance": "14470926",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xa5c417a822a8afb33c56f1356b64e59048338914",
+      "balance": "14468585",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xeb8324e1715c7ba94de4e11f9e0dfa703285e0ce",
+      "balance": "14468119",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x392cb0eaaf9d27bdd8724d4ec92e1a3553a57119",
+      "balance": "14467138",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x113568e17f129c03584b4752d9c8b0a3acf8af8e",
+      "balance": "14428570",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x3575311aa296819411ddb93b3502182a562cbdbe",
+      "balance": "14378333",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x5f3b8ce3752fda31d92e925f2d64ccc0a7f156f4",
+      "balance": "13911779",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x9dbb3c78fd29ba521f541fdfff2399706afa5f7c",
+      "balance": "13333333",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xe7879fdc3a513342cf2fea886939835364f06008",
+      "balance": "13333333",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xff5ee971fe0ae0de7fe13707b9c46d657156b592",
+      "balance": "13207708",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x465d9872e72b0485877071976e7adae7e56d50d0",
+      "balance": "13207708",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x533230454e2c33ffde3ad374535480a5021225c4",
+      "balance": "13024988",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x902b6997947ed220a88cbf65b39f2fd2d2935ee8",
+      "balance": "13024988",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xd7e2b51338557aa8f07c6b274e1a9b385c1e9a3f",
+      "balance": "13024988",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x4360249479da93422205c008f935e1a6c8efdd6b",
+      "balance": "12927283",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x4761d7a38e4373f8a6e734f2709994b434e29fcf",
+      "balance": "11577763",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x9752f95411f4af75a18b5493f278130e9ccb619f",
+      "balance": "10854153",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xb34468cce9395e303c273813ccd3f5fbda7f1b7b",
+      "balance": "10854153",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xc14eca33b7d1af15f6a997983d84a4105c3fd4ea",
+      "balance": "10854153",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xa93f95ca27b4b7763157bb820f5ef25d6b5cbeb2",
+      "balance": "10854153",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xb7658909ef3086f5404a913bef9200430076e5d9",
+      "balance": "10854153",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xdb2ee61e7f7578b17df9b1a948b3b6897dd72b57",
+      "balance": "10854153",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x273e812ca8a298d019b70032a53719a33d94aace",
+      "balance": "10854153",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x0f05bbfec1b5a6cf945d74802ca3bc67c39a9416",
+      "balance": "10854153",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x15ec2b1f20db1935720fc3778cd42679bebca671",
+      "balance": "10854153",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x37256e9dbc82e9b3453f8487cb18ffdf74436a22",
+      "balance": "10854153",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xef92db0329c7e4b424a1d0a39aeccbf73ee1a8a9",
+      "balance": "10854153",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x9a478f58a7e899f13990e63d2fe44a5797dd966d",
+      "balance": "10854153",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x4d799c6f26f3200310809f860feedd31f6593e3b",
+      "balance": "10854153",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x557969bc4444588db14d3c03a192291e1e8a3589",
+      "balance": "10854153",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x6ef46fd1935f8a0edc777fa0ba936e82ff5a3276",
+      "balance": "10854153",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x3e5b91134600ba963078127b20ab17d3ace971a0",
+      "balance": "10854153",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x3a6378573687363b6642a1ac47426ebdb8f38dc6",
+      "balance": "10854153",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x92a91b706a725d01911d639ad9eee4a62140560b",
+      "balance": "10854153",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xfbaf024a80d3b5ab9171e7db6bee6539e66a6932",
+      "balance": "10854153",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x7e54a8beb2d5e3552fcd891dfd9418c92ac1eaf3",
+      "balance": "10854153",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x619f8119a1ceebac06f2d0d77a1313f767d1638d",
+      "balance": "10854153",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xcf7c89c3fd40781244d64367cee0d4748fcbd716",
+      "balance": "10854153",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x6599cd1ef4436876ead3dc3e1438fdc94d5d5b0c",
+      "balance": "10854153",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xa637eeb2d6eb4b2af039e411c5d920c6c34cd2cd",
+      "balance": "10842199",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x8ef370a4875488bd637682e987031fa4b12dff86",
+      "balance": "10660000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x69a9db8a9686435a65681a33bfe91e7cffe38656",
+      "balance": "10000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x9d33dce69f4eaed34c4723386a35f5c43c006066",
+      "balance": "10000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x73fc7a199fa7da7ced3bb18ac3b7f14d017109e6",
+      "balance": "10000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x4189b42c7690cedbfb4f4e6156eeebe31a3679a9",
+      "balance": "10000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x411c9a1e9b63a0153d3c3d250f7890cec65b17f2",
+      "balance": "10000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xe2fc497e6e1e7bbbb450b8105135da62fab7895a",
+      "balance": "10000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xfedc475cdc802704961bfbb5fde15187c26384f6",
+      "balance": "10000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xe25947f5089e60999ce3c8e5e2510d3888712c96",
+      "balance": "10000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x100fdf4e79225f01dca8f70a346090f960c7db8e",
+      "balance": "10000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xc46857bb208ab81c4d232c391753d15168dbe59c",
+      "balance": "10000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xe1c7e6c27d5ca77237c54129b9987f32e5dd4c03",
+      "balance": "10000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x336a9e20e81026333390cfeab41ffe6142741967",
+      "balance": "10000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x504f84f9d3229619b593c04c165051eced3c75c0",
+      "balance": "10000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x5ca5433cd2e1c3297f91c8d85b0acc03aec7956c",
+      "balance": "10000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xee513a8824f0049b05bf08ea524ef83bd6475333",
+      "balance": "10000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xf6483f112bf8d201b079e95c275451c4e3cbff0b",
+      "balance": "10000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x2aaf1a64d63dbb052445d911766648ec1f6ddb46",
+      "balance": "10000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x2fcfbc64bd4d2310fe40af7087e2676ecaea27bd",
+      "balance": "8940423",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xdde37f4c680c070e2be05853f3f4750641e00240",
+      "balance": "8683325",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xb1a6a7c409daf9ad57e552a763ec0ec27adab730",
+      "balance": "8683325",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x49721d0c6e9daf7523abb4e4bae3f3f4e7cdf618",
+      "balance": "8683325",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x88abb27c1df5651450700cee6a7284ce50ffd669",
+      "balance": "8683325",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x3e30492d733f1c11fecc0e9aa1a859da5e6b3dfc",
+      "balance": "8683325",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xf46bbeade0c5b52b8708c2b28b922ab2d09753ce",
+      "balance": "8683325",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x4685774a0db80de8df19722b8ac5d40b8f72140a",
+      "balance": "8683322",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xc1b25bb8f2f90a18f6e13a4037ebe640195dee9f",
+      "balance": "8683322",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xa00b3423908c7e4c85b8de8d9a2dbddbaec27d2b",
+      "balance": "8683322",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x3deabd19b6c8aea5ec58790f0a2c1e9462381b06",
+      "balance": "8683322",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xe1aca32b5e2772ea8887fde41a1b114318fa0b18",
+      "balance": "8683322",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x5d46d8165b44d38ad6bafb01a9e2ee6ddebff616",
+      "balance": "8683322",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x9fbd2c9aea576b7d621bc3cb7071baebf76e6edc",
+      "balance": "8683322",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x323658467bf39ade6f58d1501601190d1b73a2ee",
+      "balance": "8683322",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xdba5f2b9e6404780cea92a4104388f6eb33a9616",
+      "balance": "8683322",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xc1413b55934a8d51128d3c27484230c115250a41",
+      "balance": "8662294",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x8d12afdfebabd799af21a7bdc9c2e55becd86099",
+      "balance": "8618191",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x5aa885d2d041e63a2c510d54912954fde8334546",
+      "balance": "8618191",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xade53442ccf19e295b0eedc891435c5ccb56a6f8",
+      "balance": "8618191",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x9d4dbc56ee1b1f55797bea71806d1a648d0abe27",
+      "balance": "8000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x1767789e80b9ab69a60cf1418deb7f0db247f4d5",
+      "balance": "7236102",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x224b95d715462213fa312c9a6bfd596e9b9a4cdb",
+      "balance": "7236102",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x455269fab451bffc645d7c3235e463992cdf1716",
+      "balance": "7236102",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xc7d6ba0ee0f0e40fcaa6a24fd793575e8ecc0c9c",
+      "balance": "7236102",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xebfdc628790c0edc818f128a944b1dee4fef1f7f",
+      "balance": "7236102",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x95125495bed5d36e283bb067291d928fd72af4c9",
+      "balance": "7236102",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xbd474dbc02005da82fa47b940d0540cea51584d2",
+      "balance": "7236102",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x6e43a2736c6552a9b0b3d034221c312667554ea7",
+      "balance": "7236102",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x57bb7d5105edc01ae91efc124b56e46458a6f40e",
+      "balance": "7236102",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xc7185218b8b5c1b19c1edd2e1f349b60e3ab9fba",
+      "balance": "7236102",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x66803ae1b7da963c75b2a590b75189979df9e7a0",
+      "balance": "7236102",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xe9e0a8cd35972e4e6a7608efaaff113045c0543c",
+      "balance": "7236102",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x48c663356a9aefefb96ffa5010cb372ca098e9f4",
+      "balance": "7236102",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xffbaff91070fcba8fb74236d17fcc6ef9b1b2aff",
+      "balance": "7236102",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xe42a6ffeaab35bd82bb27684e00e710725e84d07",
+      "balance": "7236102",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xcb36e271a6791531e4e37c98f0882862ef6a13c3",
+      "balance": "7236102",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xd6649ed257fbe4bb7de1e7c93661ea8e0c9c5b1f",
+      "balance": "7236102",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x0eb7014eccf5a64e9dfb3434287c023bdaf276ff",
+      "balance": "7236102",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x6102a799423204f743fe91c4fdc72ca76cef85cd",
+      "balance": "7236102",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x043d7270d9f5229aad4b8f19420883003eeaccbf",
+      "balance": "7236102",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xe244545e3126005ad770a0d3907e79f3189d373c",
+      "balance": "7236102",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x4f126c76aa558ea0728f0a750c20171edbd9f6dd",
+      "balance": "7236102",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x54ccc3f096463b8f100c522cc37da5df98959dd2",
+      "balance": "7236102",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x05b9e0c03c6ba994266c0c0f2aca3e150396d94f",
+      "balance": "7236102",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xe866b9fd9841f727213bcf434f262bee8fcf80fd",
+      "balance": "7236102",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x688cd543e3d9dab97c993b40b76dc23e83076264",
+      "balance": "7236102",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xf05ee23b1970072dc9d5b9c2d342344b3b8bf38b",
+      "balance": "7236102",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xad2a5fa69ec68aed5c74cf59dc9bd17f9b1d0599",
+      "balance": "7236102",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x17d43f3d7f74dd1a526ea3f0becb0d7dcc52ef4f",
+      "balance": "7236102",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xac04f04e693c4c60c1f8649f2530e5905c03361d",
+      "balance": "7235957",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xc29369774a12584c9566e01abcb2377dbd3ade68",
+      "balance": "7235957",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x66888a291a4be0afa860aa257065d4f70b01f294",
+      "balance": "7235740",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xd2eb940f2c3f4a844b98192fdc6ae0a64b1a6a1f",
+      "balance": "7232843",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xf2a4d5a38e04e15c758e0dea9c70a4bf033f50ab",
+      "balance": "6666667",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x7df800e5ed34855256c7d7fc806ad4f85a50bc25",
+      "balance": "5788881",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xbcc7f88b7a43ea0801036b48855e533cd97afd83",
+      "balance": "5788881",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xda8d808ccfd7dc302ee3e8fa48054cf5859c5d9a",
+      "balance": "5788881",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x1ff96d04569a09810b2c83735f68d952b27214f9",
+      "balance": "5788881",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xfba0facb1361db81e20472c33576b4a341030b3f",
+      "balance": "5788881",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xa633c35f314afb88de6fbe9dbd640f71782057e6",
+      "balance": "5788881",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x579720e7c03c5b05bf362cecf570685cff2ae7e3",
+      "balance": "5788881",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x794ecc3cfd8f2c099c09db88d2604436691c5a87",
+      "balance": "5788881",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x7f14d833e3bfccc2ec354da38d944b25ea009f86",
+      "balance": "5788881",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x75cf13bc8decb5463e6137e653cad864e3d844e4",
+      "balance": "5788881",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x980dec0a66f84851814191897766ae331186d68c",
+      "balance": "5788881",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x27b97c0d5acea9fdc87a51037032b5bb49140f40",
+      "balance": "5788881",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x615d2303ad364e59008967ef8bafdd30b7a8ce7e",
+      "balance": "5788881",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x499c58b127902f7d5fd15adcb5fb367a9880a3cb",
+      "balance": "5788881",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x070496cd6ea7fbd4a7233a48b59a0a86422573d2",
+      "balance": "5788881",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x6b0b98083df615fc0aabf17a17890c94bbfe4400",
+      "balance": "5788881",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xae59741d513ceae59fb19f4bb0ebe70cb766447a",
+      "balance": "5788881",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x4b753f573ac894e4cdf90e3bb3d543439c6bf259",
+      "balance": "5788881",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x0e620d0a7990bf7e42f66913c900aef0962a2f65",
+      "balance": "5788881",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x91275f126e9609ab741f945cfd17153145cefddb",
+      "balance": "5788881",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x3cdb899c3adef39ce1d36e34b1f43298b0275294",
+      "balance": "5788737",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xa5cbef688f26ddedf5e53fb923a9e567d6d1db78",
+      "balance": "5065271",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xa579f5ef2789ca3a45baf8048e183c7df0bdf5cc",
+      "balance": "5065271",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x92f44b796f7b2a75c7a19fc61d2acb39b12c30c4",
+      "balance": "5065271",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xf746f30c6b870b25d343695fefdace68dcc6c0df",
+      "balance": "5065127",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x8951b59781b1c03b15038d666acab5de98b1bf2e",
+      "balance": "4341663",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x5762bc0524dc4a70131dd9f13898331f3d169d8a",
+      "balance": "4341663",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xea085de2f140cf39ca6398c51955415890b7d4ff",
+      "balance": "4341661",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xec6cd10d0703d41bfaa741276b11e5f7f7e8d8c4",
+      "balance": "4341661",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x43e69d87b5c887485332d6376c34f83f1a8a19ce",
+      "balance": "4341661",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xfd5f399e6deeb38f8412afa989075eb3e9f67d18",
+      "balance": "4341661",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xf411abbeac9c4c5cf3197c475138a572fdfc95dd",
+      "balance": "4341661",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x1d050fea906abcb3c4be79a0b53e5e9f188691ce",
+      "balance": "4341661",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xc89ff2ee958ff67f39893a4d1b62582870508c48",
+      "balance": "4341661",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x93ecf9f2948ba2191f38a9fd3b950ea523177581",
+      "balance": "4341661",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x52a6f929e1e51b98eac8723a2debc1f004c623a4",
+      "balance": "4341661",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x0874932ac3ccb2151dfbded9ff0067e5071d0e6d",
+      "balance": "4341661",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x50bdd338da09532379bda61c4511b90ab24e0921",
+      "balance": "4341661",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x2d7103e6778762cc637a91b7a4238bef61bec3db",
+      "balance": "4341661",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x2f0afcf25edb763dbdb6666295e21466ae4e05e5",
+      "balance": "4341661",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x1736fcf01800cfb6244b7a8d76a8771fdeb1b6f7",
+      "balance": "4341661",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xfc7085e8f7782a1e6ee925ed4d9660f8db1cbdd9",
+      "balance": "4339852",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xcb66f2f21ece4a81ba664c37ba6e315d2edeac2a",
+      "balance": "4338767",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x7ad2c59cbf19eeb3c76ddd219c40a2f1cf2ca127",
+      "balance": "4300776",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x3d7f915b66009b0c5fe2f1c8dac2b6d02cbf1c07",
+      "balance": "3618051",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x4a339c8a429005e447dc4092b3c7135dccc4a094",
+      "balance": "3618051",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x817cae5981fee9c46bd3bcf2d92f928703b6571b",
+      "balance": "3618051",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xd4f2aaa9ed7a009822c4274826a5f97e304d75ec",
+      "balance": "3618051",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x12c0d82e6e9ea26589da6e70250d740d1f9a8eee",
+      "balance": "3618051",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x174ec0b90ab4fbc8f42a23de18c224d84b0aef63",
+      "balance": "3618051",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xb47400bc9e59be5578b32e0c282a30f3787ae807",
+      "balance": "3618051",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x0d526d2fdce811b027823c95b80e3a8ce2152317",
+      "balance": "3618051",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x32d351c0e72a5dbdc9c9dfa6906d3ee9af1146cd",
+      "balance": "3618051",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x055f54f5a2b4d088d3326a2291ccc9a7fe2de885",
+      "balance": "3618051",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x13734a90ea860c100035b68df955c7a5c6b9461c",
+      "balance": "3618051",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xbb2b86603a093d68032dd4aacd1f0446076e86b9",
+      "balance": "3618051",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xd8879656c965f576b3afa647547bae055730e39e",
+      "balance": "3618051",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x128aa4ae998c57e6f6f5a4d45c70ca0adddbb99a",
+      "balance": "3618051",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xc45c0ed05f90a677b8224a000cf667c80e92df95",
+      "balance": "3618051",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x61a865f262c52548170c1799653062a5c9eafd76",
+      "balance": "3618051",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xd48dc9e1a9694eb723133053e4e5104410708a0b",
+      "balance": "3618051",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xedf51332e7ff295204bcab36e9e7cc7970b2ac3e",
+      "balance": "3618051",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x99c1d65cd9bcff110c610985ec246eb5acedfe56",
+      "balance": "3618051",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x8560e7b82d2a69d95dce1de54a0ef3c40f0f33f4",
+      "balance": "3618051",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x8e402da49a723547efc162f2dd39656297432f7a",
+      "balance": "3618051",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x1804b41b5440401ab25e447524c56a7666c1720b",
+      "balance": "3618051",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x43cc5921943972da485f74e5debb3fbed9972c03",
+      "balance": "3618051",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x06d9bfac0afaf12dc007f04f2ea412970511ec61",
+      "balance": "3618051",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x85678cb060525209aa9097ce5c1f9119224faa4f",
+      "balance": "3618051",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xaf4f5a30be45380a8f9aff7afefecd65af14f1c3",
+      "balance": "3618007",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xcb2e2fb0bfff0b4e17d48e3419f1f2a9ea97845b",
+      "balance": "3617906",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x6d0ade67871a7145b25562081ff3d9d6e96d0c39",
+      "balance": "3617906",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xa8e8185feb07a12730dd11535ee8a1995e61900a",
+      "balance": "3617906",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xcf5faf02da368c67688ed04a31eec9220f27d366",
+      "balance": "3615156",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x7b5d176e967226e4102ca46036b078767437738a",
+      "balance": "2909598",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x58481be1b246efa17bae98e0e3d68ba6892b7086",
+      "balance": "2894441",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x0d8aad941d583f325f5e74fc7ea5a0ca768a07ee",
+      "balance": "2894441",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x0494c0f0ccd8624090b09715b8d612ebb64136f9",
+      "balance": "2894441",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xfb002526c595d3eddfe66223f7b7ef9843e6f3fc",
+      "balance": "2894441",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xca1ce28269c5a5f3aa3a469190322800a3d74db9",
+      "balance": "2894441",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x596834661ad0fc56ff4b50502401186fe35fb45e",
+      "balance": "2894441",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xa17ea4819ff10135e1048e4495466c337edc60f3",
+      "balance": "2894441",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x144b2e1c57f8e8bed1b0013d4476fee10aea1d03",
+      "balance": "2894441",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xe417687c8c45b60eaa4d03ac990f855202be912e",
+      "balance": "2894441",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x54169ba2611ed010ba7e12c5a132db58f1079380",
+      "balance": "2894441",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x867840a3daacdfbd0fcefcbbe2c5d695db04c713",
+      "balance": "2894441",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xd6fec6de1759465b107e7b21edd865c8c8f86b1a",
+      "balance": "2894441",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xe354729510698a077f896dbfecb9697dba6dd119",
+      "balance": "2894441",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x8babeb9e059bc04aacf8c5089b75778c80558afc",
+      "balance": "2894441",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xecb772d5bad63eb28796f2677018d3d397a18079",
+      "balance": "2894441",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xc299deff6c66685ee6d58d5622e3595295438bf4",
+      "balance": "2894441",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x714a5b33cbe1939de7b13d4f36b1db58fa321b6f",
+      "balance": "2894441",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x8d0554abb6e0e9158be42f375274f1f68792fa4e",
+      "balance": "2894441",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x548c9fa0bb67b08cbc7309f7e09a45c027fa7e80",
+      "balance": "2894441",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xff29e30f826cf315549ec13eba1a0f2b0543d210",
+      "balance": "2894441",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x178dd03a3f2c8b3300c9f1c81b04b300aa14e8e4",
+      "balance": "2894441",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x197de39f4100e4088c833cae224e074866edb42a",
+      "balance": "2894441",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x7ebde7b5b013a38882e9f947285f60aae8e03622",
+      "balance": "2894441",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xadb0cb3bb03007b522673bf28e93a31538887b04",
+      "balance": "2894441",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x2b47d32f0ffb526197c287509a11cbf1e452b7d8",
+      "balance": "2894441",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xaba4c66fb30ca47c6467c59d8618f4be42c07541",
+      "balance": "2894441",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x502a572491956ecd8d0c29b1c90c2aa27a30824d",
+      "balance": "2894441",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x321ee465a35e1105c117503079528766d4af1ecc",
+      "balance": "2894296",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x4bbfdca0f4d091b635bb220dfe2dd4574721b084",
+      "balance": "2894296",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xe6141be7b47d76faa78b11cd132a62b3a186bc8f",
+      "balance": "2891546",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x2955df40790731128f8f08e80bd858a02d09389e",
+      "balance": "2604998",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xc9a42f70d6cad9906dc9833c5649a383b5ef9070",
+      "balance": "2170831",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x44eaf276adbb6ee6534e27410a345c3dae93db17",
+      "balance": "2170831",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x4a94bb66c775e183b0cad6ba5f40d9c3cfecf670",
+      "balance": "2170831",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x7d9ed9e82fff61b7fbb51e49b95b09fbd8bda636",
+      "balance": "2170831",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x2df1c31f0266ea8845b5588288203284686cf7ea",
+      "balance": "2170831",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x6e6d4db332bff7a433bca609b96afb36088449f6",
+      "balance": "2170831",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xc570b771dfa7297e99923da72d83eaadb3964ac9",
+      "balance": "2170831",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x3e5ebc336297a110acd9b8f42c9f08c533472fc3",
+      "balance": "2170831",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x7fdd202151ec92149a55dcd84a07f1f264f0cea5",
+      "balance": "2170831",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xef7d5f28cecef2844dac32e1ecf36592faa695da",
+      "balance": "2170831",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xb280f6ef8fa215aabb18d1750b715b39b319ae6e",
+      "balance": "2170831",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xf1fc5298d9e46b3472056ef140a6a101141570f8",
+      "balance": "2170035",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x294caa1f02880e74c4c741e0b996f4c595f444bb",
+      "balance": "2000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xe5aeb87017621a5e38f5e1f26ad477e13c0b0325",
+      "balance": "2000000",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xcd074e6f2bd686b262763ee0464f23c473df23e4",
+      "balance": "1809025",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x1d971d3512d517ee85fe30b69c7eb9f6b7de9803",
+      "balance": "1736665",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xe3a2458184f999c1600d7133952e729ccb6b9664",
+      "balance": "1447220",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x58e9beac2015d16079d9ad34cf9da0d5c600db63",
+      "balance": "1447220",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xf19c764fe011c04336f7f4606b01d057ea212a3f",
+      "balance": "1447220",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xb9f0ca612f3283bdec0bd318265d3ccf43ee61ad",
+      "balance": "1447220",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xf296ef1624738901e336b145e13fda9ffb7980fe",
+      "balance": "1447220",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x1255e4aaac1a67781b7adda9572a8337d4c92155",
+      "balance": "1447220",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x720963c171c4e893760fbb312d298bc02cb0775b",
+      "balance": "1447220",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x9cc2f0d3ada94971f0558ac46208fe9eeb166390",
+      "balance": "1447220",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xdecdc4df5996abce39c19dee3e6bab68b129720c",
+      "balance": "1447220",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x617b2d22a8ba529337aed93ed450ab70a636c85b",
+      "balance": "1447220",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x44d056cbcf75acaa6dccad446d14caba7a9a25bd",
+      "balance": "1447220",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xb082fdb3f9521ae316baf4c79163b99a206fd909",
+      "balance": "1447220",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x6b9f7cdc26b1400103da1cbc7b12f1da59868aa5",
+      "balance": "1447220",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x801feffe6280d41a3cc95fdba6355bab616af375",
+      "balance": "1447220",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xa37139a1668be6cdd1cfe617f70f91994c8a89ef",
+      "balance": "1447220",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xdf4a44ae73ae793d556d5b50d0d7b8b7ad90f2dc",
+      "balance": "1447220",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xb3964c10b0b75aad30d45cf4fe363c3b67028824",
+      "balance": "1447076",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x22650ade79ac01d43f53987def01149f0d73cf74",
+      "balance": "1447076",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xda28adaa3ab7fbcfd44a8b7ba637c61d1d20caec",
+      "balance": "1447076",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x80f9ba841abd7831e39ed03bf4f2e00bfb3ab74d",
+      "balance": "1447076",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x880762b1fc17275f697d302dde3c80496d822854",
+      "balance": "1446537",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x6c997070d461d280e36640f03114648d6851357f",
+      "balance": "1446453",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x4a3a1d309857bacb832ea912979b8bb6124bcad1",
+      "balance": "1446190",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x116910e8cb71b286690d85d7acb31a78879ff6e6",
+      "balance": "1445773",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xe35d0519a0b886ab2483b9719fe6c4411740aa0a",
+      "balance": "1085415",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x91e184f0c6963328cbfaf69851988e08978bbcd8",
+      "balance": "868332",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x6bc2e38550bba70d657b5776eb64c369096e89bf",
+      "balance": "723610",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x17f02f98dc66e0042d0ce3c8b77839cf0625ff82",
+      "balance": "723610",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xa9987b6b47504111399638551c2872a7948d2367",
+      "balance": "723610",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xaa9e055e6cd2e39ecdfb258fa0843a4dc8d64d5c",
+      "balance": "723610",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xca2181ef52c9320130b57a6c565efa0d678581de",
+      "balance": "723610",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xd7e85d6d6c1b0a16c02718267c7f0c2d52392429",
+      "balance": "723610",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xb53967d37e82559dcb7896add98a2a3846cc7688",
+      "balance": "723610",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x14bf786c37cc3d89d95607dbf7d7874875eb9175",
+      "balance": "723610",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x1cd50693b269fa0de022abd740a1da5e34c8f8c2",
+      "balance": "434166",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x84d68e0517047d8a905c79a280a9b7ab8a081a49",
+      "balance": "487.971599",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x5c07ffb713cd05fb6f3217c6751800bce22b5d07",
+      "balance": "349.996766",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x1a355482147a9fe5edd2a06f3ce9abeb1d870b81",
+      "balance": "50",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xb5c0e65fb2a31cb935f5234a9982050ac1693e55",
+      "balance": "45.998908",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x1c587a8507b98e70eedb7f728ba9bbee3fbb6680",
+      "balance": "22.584712",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x424d5ceb04ca133f02c9f5a5ea0bacc71e8ab632",
+      "balance": "12.917816",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x7b6724a0902254f6c7a69fc474aebcb3ae3de732",
+      "balance": "10",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x9700a20290c93d37f6e73c2bb2bde039c84e2b71",
+      "balance": "5",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x41bbf0043ab795e2d53e26548adae111adb94c36",
+      "balance": "3.996724",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x13b7e6ebcd40777099e4c45d407745ab2de1d1f8",
+      "balance": "3.915799884",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x6f296c6f4e2957a4c42d44825adcbe470ea02f04",
+      "balance": "2.8299399240175944",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x358042379118d77fb259643dd9ed9e09ba568046",
+      "balance": "1.998908",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x33d2f2aef31ac8490435304aecd96128f60197e1",
+      "balance": "1.9483977340369585",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xb66d4191c59b6e1267938535a5d7ab519c69d147",
+      "balance": "1.898908",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xfc08db693d20f8f5de32ac93816fa0ec2d6a221d",
+      "balance": "1.0461422659630415",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x47fa2aaa7acd628a1e72683cdb3c4d7fc9fab2d6",
+      "balance": "1",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x64f221b7646450d3482512346b052c6bab027eba",
+      "balance": "1",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xe0fb95c4697ba496a16c10ede204b4c1703adefc",
+      "balance": "1",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x449f6171e93c78584a6d3c5b2dd34a100a08f630",
+      "balance": "1",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x43da83cb30bcf4a7d7f88f4bdf923a71fc4379b4",
+      "balance": "1",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xf70c9547ca5016797d7fd9623320d653e82d83a5",
+      "balance": "1",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xb76c14cc52ecba3f75a250c158ed64f14c610824",
+      "balance": "1",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x6ca25b062a4838e13dd588506ff57edcbe9ff244",
+      "balance": "1",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x02e96a85e88ae3c5ab1ebd3ad2f0fc4b9936a47d",
+      "balance": "1",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x0150a10d43daa473963e26652d76b8528098ef20",
+      "balance": "0.9358895255696036",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x6d6c7caa43c0b30be46c9af70646f34588e25b7a",
+      "balance": "0.9004406759567674",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x01bb021f0aa9ea697cb1c89e603590d07186812e",
+      "balance": "0.5",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xc0416a49452aed4be35b5e9909f1ab1d4867954a",
+      "balance": "0.1",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x9b2538312ef21fb3c44c06957daf6363d0d1cc5f",
+      "balance": "0.098908",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x33b4ace3c4b000214245281bc707bf5ce09feb9e",
+      "balance": "0.0063",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x5037b88df91b55f9109071d0e954f15c4f9d9b6c",
+      "balance": "0.001498317551953477",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x692ed7584e79760e9faa801b5e21fbd1d5e501b3",
+      "balance": "0.001493270067015182",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xe551ef4c692e65943078b59fa85cc0c665b56425",
+      "balance": "0.001491121827762206",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xd028e9142fe5b8fd636b03181155f3e93140179b",
+      "balance": "0.001488157523592044",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xd59b366560046e58117bd42f62ef70ba1a85c50c",
+      "balance": "0.001485338956688646",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xfc5560cee0332c270e6b3c236134af9172ef87b8",
+      "balance": "0.001481956029992462",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x4f7b21db1d5b4a653200551e49be398cb00903f7",
+      "balance": "0.001480758769109267",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x73a869775fe1a49545bd19a05c58805279ea8601",
+      "balance": "0.001478965905751661",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xdd4c6acd87008818867c2f6c3a89cffc6e8e6cb5",
+      "balance": "0.001474418852806773",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x227f2b306eea155be69d8c29f49ccc11319fcf00",
+      "balance": "0.001465840684256466",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x182f0bc2cbb6d0aedcd650f3f57189b38274e7c9",
+      "balance": "0.001462997557930171",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xfb7994e53438a3df9bdbd4cdc672dc1d922c4583",
+      "balance": "0.001461323194964846",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x37d94ee137b5b06611bd0db68c9d669c2f7b3753",
+      "balance": "0.001457798930788966",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xbefc08800b86cdb0ca8fb7691c94de411d36b72b",
+      "balance": "0.001456289448000153",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x08a3f523e2cf252b8b46ea23a7168fb2b01d4f12",
+      "balance": "0.00145616786477478",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x593c128d84ba044a8d794a3a334cdc2204db2746",
+      "balance": "0.001441658588196843",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x4c1781a9b4b64059d00f2ce263a830396e2ea39d",
+      "balance": "0.00144161817675037",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xa8d6be4c866fae2bb4666b37357828937288c648",
+      "balance": "0.001437473183615638",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x4dc9498b74e6231fd1e1bc84800fce8de0a3be47",
+      "balance": "0.001425282912991348",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x1fe8d5b5668b629bf92d01dcde7a7974e742e24e",
+      "balance": "0.001418094653633689",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xc67b5ea708a3d064f68524472ca0e5a6433f53e1",
+      "balance": "0.00141654015655536",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xfe0592ad8bb25d2023b3ed5e1f7cda0af246c904",
+      "balance": "0.001406146769446276",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xd8033c63064c7fcfb3f7deb05e84609db73f4d36",
+      "balance": "0.001401331105522834",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xf71a881bcd8f1b4a6e0432056ea18c24fff57d62",
+      "balance": "0.001399529636269327",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x396ad6090dfb81577c461287b7bc44e17c46e5df",
+      "balance": "0.00139332545704417",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x4b56c00c26c31c5bc9b6b3ca861787e45ad1aa80",
+      "balance": "0.001389251920782018",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x52e8ee067381fb1243642b114e55318c78a57144",
+      "balance": "0.00138711765010553",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xadf252e0cb45e886675e4f6b6ddd81154ffe7e26",
+      "balance": "0.001386289250297539",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x8975ad0bd91c21ea70559592ec6d54175e6a75ec",
+      "balance": "0.00138044158757514",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x4586809c96ab29321cbb30be427431ca3420b886",
+      "balance": "0.001378022713923248",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x1fd9a33e1ecae91a083dd2f040eb32a5ea3aac94",
+      "balance": "0.001375787688330149",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x374c96844251f8631b61e9ec10ad86a8be4a59b4",
+      "balance": "0.001373998004634646",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xa75b44ede6f994643a2c4a67bb6b30343d75c6b0",
+      "balance": "0.001366466804314188",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x587ba158a785520e68a5b4dd3bd701a66dfe92f8",
+      "balance": "0.001366466356915907",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x2cf57983f812b7912324ad12aea6ec1fbd39883f",
+      "balance": "0.001339800254996743",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xcbbbc35cc43048d5059a89b602ad04df55678ae3",
+      "balance": "0.001339341403602564",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x718094ba2504df7291c569825913552eeaf36820",
+      "balance": "0.001335812086709524",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x79448929e77f3da34a4289d26edcc973dff9b3c7",
+      "balance": "0.001335789310452188",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x29fa3656e5375d7e8e7d1913e904da24686a0f1e",
+      "balance": "0.001325148545806775",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x8c7d41ad32a894af0d076b2d9bbbe6aef835052e",
+      "balance": "0.001323467169804421",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xaffad8d72deb8bc492e2b15f3bb887c35c2abe4f",
+      "balance": "0.001323253770624543",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xa1cd7a4c555e4e2c0473dcf3b19ed389bf821879",
+      "balance": "0.001320153724209084",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x04dec88c6ed02ea0ba52b6ddff2c56ae6cfdc6c8",
+      "balance": "0.001316904915130708",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xcb44b531d0cca9c952234ffa551d223205531180",
+      "balance": "0.001313920979098631",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x926fa0f9ef4b9eed3fd52ccef6193035d2af19cd",
+      "balance": "0.001313776918970613",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x4092b05566c0eb5974a9486da5613e6ed51d529b",
+      "balance": "0.001311537856080205",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x1969d1ddd06db62c79f7198c83d6e72b4cec1d69",
+      "balance": "0.001306610301979627",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x3363e381a633f0d09a22a7783ca0c43b48660b6c",
+      "balance": "0.001301806069452625",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x1e2f52a19b1d28612c7d42d0f6ddd7c44c212602",
+      "balance": "0.001296056172082174",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x2d49d946311efec6e932bd18fc00cb73af7a2447",
+      "balance": "0.001292413405688054",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x6eb5bd8be7c63f92fbc385e224632793e97f4403",
+      "balance": "0.001289796357130893",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xb8161801b734265da4341193d5899111f9e290a8",
+      "balance": "0.00128722460119133",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x46e894eaf2b91d84709b6cbf8c1361d45e0ee7c8",
+      "balance": "0.001279906078705456",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xda3665a06c0dda0fb9884d261c12b8fa11f295a4",
+      "balance": "0.001277706760980155",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x4a033d760f33afbf31564ec7449d9c8fde5bd096",
+      "balance": "0.001275203300790159",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x0a46449c249454d62fbf57135ed8df865448fd52",
+      "balance": "0.001274405188644884",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xf53ff98a8660d751a4c4f8ccc6919ca5bccdc310",
+      "balance": "0.001254428524633111",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x392c4a9623fa161ba05860b2c4116603ece8c603",
+      "balance": "0.001251687185801714",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x5730fd5cc85b50aafa7daf48f55cf385f89fc777",
+      "balance": "0.001249770241017729",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x4bfcc3fc14361af20701f687c3934b812f11e65c",
+      "balance": "0.001247441528030261",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xdf3b939ee1a0bb765fa78456635d6525b649936d",
+      "balance": "0.0012446782668949",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x727ad2f5419643f276348fe3bcd1329ed8592a34",
+      "balance": "0.001239838121591642",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xd966669b5c674b79f7546da538cdd48d673a8ae0",
+      "balance": "0.001230520949214978",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x95d9b2638e4b8748568d8399f037b420626c862d",
+      "balance": "0.001230026742670897",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xd33730c90847cd4b616e294ea12bf5154de535e7",
+      "balance": "0.001214616216719072",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x0591e63b5a45a4fb2aeeb6ba1d7e3428910ffc00",
+      "balance": "0.001209644059861617",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xf84bf34404e6e37b31608d6725c80dd9044ec63e",
+      "balance": "0.001205001568990028",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xcc4b18a6bfca3cdaad8a704205ddbc357fcb8cab",
+      "balance": "0.001198839087528972",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x0d77132dad8a07470e3c57f7ee2dc260f6a8b92f",
+      "balance": "0.001195638754664581",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xeb97b3d8f06f7adb5344f1617d82e464e042b57b",
+      "balance": "0.001186136370000782",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x8511de1643147a9dd11a2f3e477848705e06db30",
+      "balance": "0.001181347855774146",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xbb17a6e133ed67c2049902ae15a3672d0c172f35",
+      "balance": "0.001178842146480873",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x2ffaab1950d9ad1a707c897465bcbd96eceafba1",
+      "balance": "0.001177177225286449",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xf5ccff34614091e1f85de1a581013effc4e71937",
+      "balance": "0.001172760795185251",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xcac8cc7d0591aea28ae1d39055e558d128543f66",
+      "balance": "0.001166238927838339",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xbbd7e4443ccb92bbcda6cf9c0dc5919abf19db1c",
+      "balance": "0.001163639725818829",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xb21a09c897581ad0a1390429584c338956ba1e92",
+      "balance": "0.00115653510599808",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xf63861c2ebd29ce4cf359597b25892b5f3a3be22",
+      "balance": "0.001154856198996914",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x9fe87621d020472f7ca8be0739b9b5b4060afb5e",
+      "balance": "0.001150151256554923",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x2791b89748523926af29e88c74e8049ac599f706",
+      "balance": "0.001145695982456563",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xd1b1e5203f17c4424d6cdf759dd71be2db3113dc",
+      "balance": "0.001140306283748223",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x0d2dc6528b014e7f4f5f60ceeaa84b1e52948343",
+      "balance": "0.001137434424238723",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x75498ef2f28b798910918fc40bf80110414f1195",
+      "balance": "0.001132852316530121",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x37b83c4f9d719398d2c8cde5a0f1fad020196ef7",
+      "balance": "0.001130380782774314",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x29b3969c535af67406dd34bacbf97f896a59c84b",
+      "balance": "0.001123791726726503",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x60a5b513f57b149e28ad8435d3bea3a97aab4260",
+      "balance": "0.001122772613491256",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x79b457fb36cbe77ba96fb3c11dba7358e2621011",
+      "balance": "0.00111782348665056",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xd9f8c2b106d54d3a7024c724ac472ed80da71e06",
+      "balance": "0.001114512977997868",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xbeac5b214a0b6de9ea228701619934e506a47e33",
+      "balance": "0.001106302148294569",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xc2be3ab45a5eef33787551617ec31b68d2948701",
+      "balance": "0.001098172516962936",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x889cb0fd0484f5fcf01d47d5aecfbd13d8ca033a",
+      "balance": "0.001093982190135788",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x4e77ed9377cb170799beb451fe1fd8183b5331fa",
+      "balance": "0.001090173413570083",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xdcf7ebf1e70c1bea1ac5482b87d9487b40a152d8",
+      "balance": "0.001089932019374693",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x2e6af6999ecddbfdcb5376f32dc3a8ba956602b9",
+      "balance": "0.001084092656583114",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xaff8b02268fcc1cfe1a51bb76bfe3962d8da4aba",
+      "balance": "0.001072188197761024",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x5b48465ff2351c07011f023a5a40f61dbeab1d98",
+      "balance": "0.00107173223470195",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xbd00260dcdddb97cabc76ba1678e1da37094a125",
+      "balance": "0.001065315301963677",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x93c74aa3b785cdb6b74ae3270c12cb45d6afade3",
+      "balance": "0.001062458632561325",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x4715299cc7d023af3ab60dc87812845091727a78",
+      "balance": "0.001054354277568398",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xedb63c9a9da6f7b9a958bd7d260c5029a71f4d6f",
+      "balance": "0.001053950445235779",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x37ea083ef9bdbc7c64ba4b2cb6caf826b94ab3a6",
+      "balance": "0.001049203993896837",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xe767db195dc5db5b99241cb696053a5592941a5e",
+      "balance": "0.001043594765324777",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x7518bda67bbb7b5de98c2615ad802faccb734792",
+      "balance": "0.001042822776303382",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xcaca821569b2b83fe4bfb9b75bb83d8eac33ec3f",
+      "balance": "0.001041722692881902",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x0496696a0e53b219b602d5d07a4d2750919c75b9",
+      "balance": "0.001032913722059084",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x0fc1a6e220d36948f928b82eed8ad0808d41b80f",
+      "balance": "0.001027882966327583",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xa8d79f6d1375368023291257515fa8c26300c49e",
+      "balance": "0.001027165616965594",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xce695fe4e93e5563fff48acf5510848bd8ba4642",
+      "balance": "0.001017792252825066",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x233c832c0b4d425aa2e2fd8824fa12e82077747a",
+      "balance": "0.001017041394285785",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x7482819885e4166628a6345ad301c85497a4807c",
+      "balance": "0.001009655108479379",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0xc59d0663a5b941aa477a12afac2157b3b49886f1",
+      "balance": "0.001006526704432475",
+      "isContract": false
+    },
+    {
+      "accountAddress": "0x3407a005b153377c7ef189fa4f164cfaa5ed1e15",
+      "balance": "0.001004336511720043",
+      "isContract": false
+    }
+  ]
+}
